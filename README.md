@@ -33,5 +33,6 @@ Paste a message → Click “Check Message” → Instantly see if it’s SPAM o
    git clone https://github.com/yourusername/sms-spam-classifier.git
    cd sms-spam-classifier
 pip install -r requirements.txt
+
 streamlit run app.py
 
